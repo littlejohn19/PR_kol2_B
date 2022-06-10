@@ -10,9 +10,9 @@ Np. w img - item.image
 
 ## 3. Stworzenie nowego komponentu
 
-Należy stowrzyć nowy komponent FUNKCYJNY, który będzie nazywać się - XYhome.jsx (XY - to inicjały).
+Należy stworzyć nowy komponent FUNKCYJNY, który będzie nazywać się - XYhome.jsx (XY - to inicjały).
 
-W tym zadaniu trzeba dodać routing do nowego komponentu, którym będzie ścieżka "/home".
+W tym zadaniu trzeba dodać routing do aplikacji, aby można było przejść do komponentu. Sciezka to "/home".
 
 Komponent będzie wyświetlał element Jumbotron: https://getbootstrap.com/docs/4.0/components/jumbotron/
 Element ten zawiera napis Hello, world! oraz przycisk. 
