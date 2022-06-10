@@ -1,4 +1,4 @@
-# Programowanie reaktywne - kolokwium 2 - Grupa 1
+# Programowanie reaktywne - kolokwium 2 - Grupa 2
 
 
 ## 1. Instalacja i uruchomienie projektu
